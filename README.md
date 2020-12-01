@@ -9,4 +9,6 @@
 
 ° pkg install python2
 
-° git clone 
+° git clone https://github.com/PandaKrypton/Maker-deface-page
+
+° python mdfc.py
